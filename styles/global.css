@@ -27,9 +27,7 @@
   --px-lg: 2rem;
 }
 
-body{
-  overflow-x: hidden;
-  
+html{
   scroll-behavior: smooth;
 }
 
