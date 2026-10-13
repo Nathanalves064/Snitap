@@ -50,7 +50,7 @@ a{
   text-decoration: none;
 }
 
-@media (width >= 80em){
+@media (width >= 70em){
 
   h1{
     font-size: 4rem;
