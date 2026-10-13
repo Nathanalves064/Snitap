@@ -9,6 +9,7 @@ section.gallery{
 
   & header span{
     font: 500 var(--text-sm)/1.5 var(--ff-base);
+    text-transform: uppercase;
   }
 
   & img{
