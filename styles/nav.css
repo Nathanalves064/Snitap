@@ -3,6 +3,7 @@ nav{
   width: 100%;
 
   padding-block: 1.25rem;
+  margin-inline: auto;
 
   display: flex;
   align-items: center;

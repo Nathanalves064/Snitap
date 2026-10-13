@@ -2,8 +2,16 @@
   padding-inline: var(--px-base);
 }
 
+.desktop-only{
+  display: none;
+}
+
 @media (width >= 80em){
   .px-base{
     padding-inline: var(--px-lg);
+  }
+
+  .desktop-only{
+    display: initial;
   }
 }
