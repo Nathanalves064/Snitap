@@ -9,7 +9,6 @@ section.hero{
   flex-direction: column-reverse;
   align-items: center;
   justify-content: center;
-  /* overflow: hidden; */
 
   & h1{
     max-width: 19.5rem;
