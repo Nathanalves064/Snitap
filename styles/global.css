@@ -27,6 +27,10 @@
   --px-lg: 2rem;
 }
 
+html{
+  overflow-x: hidden;
+}
+
 html, button{
   font: 500 1rem/1.5 var(--ff-base);
 }
